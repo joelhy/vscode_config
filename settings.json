@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "'Yahei Mono'",
+    "files.encoding": "gbk",
+    "editor.rulers": [80, 120],
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": true,
+    "editor.cursorStyle": "line",
+    "editor.wrappingColumn": 0,
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "vim.useCtrlKeys": false
+}

@@ -7,7 +7,9 @@
     "editor.renderWhitespace": true,
     "editor.cursorStyle": "line",
     "editor.wrappingColumn": 0,
+    "workbench.editor.showTabs": false,
     "workbench.editor.enablePreview": true,
     "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.openPositioning": "last",
     "vim.useCtrlKeys": false
 }

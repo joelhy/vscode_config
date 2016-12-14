@@ -1,15 +1,30 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontFamily": "'Yahei Mono'",
+    "editor.fontFamily": "'Source Code Pro SemiBold'",
     "files.encoding": "gbk",
     "editor.rulers": [80, 120],
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": true,
     "editor.cursorStyle": "line",
     "editor.wrappingColumn": 0,
+    "explorer.openEditors.visible": 18,
+    "explorer.autoReveal": false,
     "workbench.editor.showTabs": false,
     "workbench.editor.enablePreview": true,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.editor.openPositioning": "last",
+    // Indicates folders to be ignored, like "node_modules", "out", "typings", "test"
+    "projectManager.vscode.ignoredFolders": [
+        "node_modules",
+        "out",
+        "typings",
+        "test",
+        ".idea",
+        "upload",
+        "sitedata/cache",
+        "sitedata/doc",
+        "sitedata/logs",
+        "sitedata/views_c"
+    ],
     "vim.useCtrlKeys": false
 }
